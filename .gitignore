@@ -1,0 +1,6 @@
+
+# The built website
+_site/
+
+# Mac crap
+.DS_Store
