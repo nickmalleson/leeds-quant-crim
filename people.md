@@ -19,8 +19,18 @@ A.Varela@leeds.ac.uk
 
 ## Carly Lightowlers
 
-C.Lightowlers@leeds.ac.uk
+Carly Lightowlers is an Academic Fellow in Policing Data Analytics at the University of Leeds. Her
+role includes delivering on the Data Analytics strand of the [N8 Policing Research
+Partnership](http://n8prp.org.uk/): a HEFCE funded knowledge transfer project between 11 police forces and 8 research
+intensive universities in the north of England. Carly is a quantitative criminologist whose research
+expertise is in the application of novel quantitative methods (notably multilevel and latent
+variable modelling techniques) with which to study issues of crime, disorder and criminal justice.
+Her research addresses questions about the nature of violent offending behaviour, the role of
+alcohol therein, and associated criminal justice responses. Her work capitalises on secondary,
+administrative and survey data, such as data gathered by the Home Office, Ministry of Justice,
+journalists and the police.
 
+C.Lightowlers@leeds.ac.uk
 
 ## Daniel Burn
 

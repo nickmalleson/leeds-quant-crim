@@ -10,7 +10,7 @@ markdown:         kramdown
 title:            Leeds Quant Crim
 tagline:          'Quantitative Criminology group (University of Leeds)'
 description:      'A group of researchers interested in quantitative criminology. Based at the University of Leeds.'
-url:              http://hyde.getpoole.com
+#url:              http://hyde.getpoole.com
 baseurl:          /leeds-quant-crim/
 
 author:
