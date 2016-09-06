@@ -5,77 +5,195 @@ title: People
 
 Here is a list (in alphabetical order) of some of the people who are involved in the Quantitative Criminology group.
 
-<p class="message">If you would like to be added to the list, please email <a href="http://www.geog.leeds.ac.uk/people/n.malleson/">Nick Malleson</a></p>
+<p class="message">If you would like to be added to the list, please email <a href="http://www.geog.leeds.ac.uk/people/n.malleson/">Nick Malleson</a>.</p>
 
-## Andrew Evans
 
-A.J.Evans@leeds.ac.uk
+***
 
+<a href="www.geog.leeds.ac.uk/people/a.evans"><img class="staffPicture" src="http://www.geog.leeds.ac.uk/fileadmin/images/geopeople/a.evans.jpg"/></a>
+
+## [Andrew Evans](www.geog.leeds.ac.uk/people/a.evans)
+
+[School of Geography](http://www.geog.leeds.ac.uk/)
+
+Senior Lecturer in GIS/Computational Geography.
+
+Main interests:
+
+ - Artificial intelligence in geography
+ - Agent-based modelling
+ - Fullz mapping
+
+***
+
+## [Albert Varela Montane](http://www.sociology.leeds.ac.uk/people/staff/varela)
+
+[Sociology and Social Policy](http://www.sociology.leeds.ac.uk/)
+
+Lecturer in Quantitative Methods
+
+***
+
+<a href=""><img class="staffPicture" src="http://www.law.leeds.ac.uk/assets/images/staff/Carly-Lightowlers.JPG"/></a>
+
+## [Cary Lightowlers](http://www.law.leeds.ac.uk/people/staff/lightowlers/)
+
+[School of Law](http://www.law.leeds.ac.uk/)
+
+Academic Fellow - Crime and Policing Data Analytics
+
+Main interests:
+
+  - Alcohol-related violence
+  - Riots
+  - Quantitative and qualitative methods
+
+***
+
+## [Daniel Burn](http://www.law.leeds.ac.uk/people/support/burn")
+
+[School of Law](http://www.law.leeds.ac.uk/)
+
+Research Officer
+
+***
+
+<a class="staffPicture" src="http://www.law.leeds.ac.uk/people/staff/wincup/"><img src="http://www.law.leeds.ac.uk/assets/images/staff/wincup-emma.jpg"/></a>
 	
-## Albert Varela Montane
+## [Emma Wincup](http://www.law.leeds.ac.uk/people/staff/wincup/)
 
-A.Varela@leeds.ac.uk
-	
+[School of Law](http://www.law.leeds.ac.uk/)
 
-## Carly Lightowlers
+Senior Lecturer; Director of Student Support
 
-Carly Lightowlers is an Academic Fellow in Policing Data Analytics at the University of Leeds. Her
-role includes delivering on the Data Analytics strand of the [N8 Policing Research
-Partnership](http://n8prp.org.uk/): a HEFCE funded knowledge transfer project between 11 police forces and 8 research
-intensive universities in the north of England. Carly is a quantitative criminologist whose research
-expertise is in the application of novel quantitative methods (notably multilevel and latent
-variable modelling techniques) with which to study issues of crime, disorder and criminal justice.
-Her research addresses questions about the nature of violent offending behaviour, the role of
-alcohol therein, and associated criminal justice responses. Her work capitalises on secondary,
-administrative and survey data, such as data gathered by the Home Office, Ministry of Justice,
-journalists and the police.
+Main interests:
 
-C.Lightowlers@leeds.ac.uk
-
-## Daniel Burn
-
-D.J.Burn@leeds.ac.uk
-	
-## Emma Wincup
-
-E.L.Wincup@leeds.ac.uk
+ - Drug policy
+ - Interconnections between crime and social policy
+ 
+***
 
 ## Fiona McLaughlin
 
-F.McLaughlin@leeds.ac.uk
+[School of Law](http://www.law.leeds.ac.uk/)
 
-## Graham Farrell
+Research Officer
 
-G.Farrell@leeds.ac.uk
+***
 
-## Gill Main
+<a href="http://www.law.leeds.ac.uk/people/staff/farrell"><img class="staffPicture" src="http://www.law.leeds.ac.uk/assets/images/staff/Graham-Farrell.JPG"/></a>
 
-G.Main@leeds.ac.uk
+## [Graham Farrell](http://www.law.leeds.ac.uk/people/staff/farrell)
+
+[School of Law](http://www.law.leeds.ac.uk/)
+
+Professor of International and Comparative Criminology 
+
+Main interests:
+
+ - Crime science
+ - Situational crime prevention, designing-out crime
+ - Crime drop
+ 
+***
+
+<a href="http://www.education.leeds.ac.uk/people/academic/main"><img class="staffPicture" src="http://www.education.leeds.ac.uk/assets/images/staff/Gill_Main_180.jpg"/></a>
+
+## [Gill Main](http://www.education.leeds.ac.uk/people/academic/main)
+
+[School of Education](http://www.education.leeds.ac.uk/)
+
+University Academic Fellow: Young People and Precarity
+
+Main interests:
+
+ - Children and young people’s well-being
+ - Poverty
+ - Social exclusion
+
+***
+
+<a href="http://www.geog.leeds.ac.uk/people/e.sheard"><img class="staffPicture" src="http://www.geog.leeds.ac.uk/fileadmin/images/geopeople/e.sheard.jpg"/></a>
+
+## [Emily Sheard](http://www.geog.leeds.ac.uk/people/e.sheard)
+
+[School of Geography](http://www.geog.leeds.ac.uk/)
+
+PhD student
+
+Main interests:
+
+ - Urban mobility and movement patterns
+ - Spatio-temporal crime hotspots
+ - Car-key burglary
 	
+***
+
+<a href="http://www.law.leeds.ac.uk/people/staff/pina-sanchez/"><img class="staffPicture" src="http://www.law.leeds.ac.uk/assets/images/staff/Jose-Pina-Sanchez.JPG"/></a>
 	
-## Emily Sheard	
+## [Jose Pina Sanchez](http://www.law.leeds.ac.uk/people/staff/pina-sanchez/)
 
-gy14ejs@leeds.ac.uk
+[School of Law](http://www.law.leeds.ac.uk/)
+
+Lecturer in Quantitative Criminology
+
+Main interests:
+
+ - Sentencing
+ - Compliance with the Law
+ - Survey Research
+ - Quantitative Methods
+ 
+***
+
+<a href="http://www.law.leeds.ac.uk/people/module-assistants/schonhofer"><img class="staffPicture" src="http://www.law.leeds.ac.uk/assets/images/profiles/Johanna-Schoenhoefer.jpg"/></a>
+
+## [Johanna Schönhöfer](http://www.law.leeds.ac.uk/people/module-assistants/schonhofer)
+
+[School of Law](http://www.law.leeds.ac.uk/)
+
+PhD student
+
+***
+
+<a href="http://www.geog.leeds.ac.uk/people/n.malleson"><img class="staffPicture" src="http://www.geog.leeds.ac.uk/fileadmin/images/geopeople/n.malleson.jpg"/></a>
+
+## [Nick Malleson](http://www.geog.leeds.ac.uk/people/n.malleson)
+
+[School of Geography](http://www.geog.leeds.ac.uk/)
+
+Main interests:
+
+ - Quantitative spatial analysis
+ - Geography of crime
+ - Agent-based modelling
+ - Urban dynamics
+ 
+ ***
+ 
+<a href="http://www.maths.leeds.ac.uk/index.php?id=263&uid=1444"><img class="staffPicture" src="http://www1.maths.leeds.ac.uk/images/maths-staff/Richard_Mann.png"/></a>
 	
-	
-## Jose Pina Sanchez
+## [Richard Mann](http://www.maths.leeds.ac.uk/index.php?id=263&uid=1444)
 
-J.PinaSanchez@leeds.ac.uk
+[School of Mathematics](http://www.maths.leeds.ac.uk/)
 
-## Johanna Schönhöfer
+UAF in Data Analytics
 
-J.Schoenhoefer@leeds.ac.uk
-	
+Main interests:
 
-## Nick Malleson
+ - Bayesian data analytics 
+ - Collective behaviour 
+ - Individuality, crime and segregation 
 
-n.s.malleson@leeds.ac.uk
-	
-## Richard Mann
+***
 
-R.P.Mann@leeds.ac.uk
+<a href="http://www.its.leeds.ac.uk/people/m.cepeda"><img class="staffPicture" src="http://www.its.leeds.ac.uk/fileadmin/templates/assets/img/people/Magda_Cepeda_Zorrilla_140x180.jpg"/></a>
 
-## Magda Cepeda
+## [Magda Cepeda](http://www.its.leeds.ac.uk/people/m.cepeda)
 
-ts12mrcz@leeds.ac.uk
+[Institute for Transport Studies](http://www.its.leeds.ac.uk/)
+
+PhD Student
+
+***
 
