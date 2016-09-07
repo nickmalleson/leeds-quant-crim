@@ -36,7 +36,7 @@ Lecturer in Quantitative Methods
 
 <a href=""><img class="staffPicture" src="http://www.law.leeds.ac.uk/assets/images/staff/Carly-Lightowlers.JPG"/></a>
 
-## [Cary Lightowlers](http://www.law.leeds.ac.uk/people/staff/lightowlers/)
+## [Carly Lightowlers](http://www.law.leeds.ac.uk/people/staff/lightowlers/)
 
 [School of Law](http://www.law.leeds.ac.uk/)
 
@@ -44,9 +44,9 @@ Academic Fellow - Crime and Policing Data Analytics
 
 Main interests:
 
-  - Alcohol-related violence
-  - Riots
-  - Quantitative and qualitative methods
+ - Alcohol, crime and violence
+ - Riots and disorder
+ - Quantitative and secondary analysis of criminal justice data
 
 ***
 
