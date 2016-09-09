@@ -68,8 +68,9 @@ Senior Lecturer; Director of Student Support
 
 Main interests:
 
- - Drug policy
- - Interconnections between crime and social policy
+ - Drug use and drug treatment
+ - Housing and homelessness 
+ - Resettlement of prisoners
  
 ***
 
