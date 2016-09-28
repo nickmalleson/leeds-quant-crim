@@ -88,7 +88,7 @@ Research Officer
 
 [School of Law](http://www.law.leeds.ac.uk/)
 
-Professor of International and Comparative Criminology 
+Professor of International and Comparative Crime Science
 
 Main interests:
 
