@@ -9,7 +9,8 @@ The group meet about once a month, usually on a Wednesday.
 
 <p class="message">If you would like to be added to the list, please email <a href="http://www.geog.leeds.ac.uk/people/n.malleson/">Nick Malleson</a></p>
 
-
+<!--
 <figure style="height:auto%; width:100%;padding:5px; margin: 0px 10px 10px 0px;" >
 <a href="https://www.leeds.ac.uk"><img src="{{site.baseurl}}img/parkinson_building.jpg" alt="Image of the Parkinson Building"></a>
 </figure>
+-->
